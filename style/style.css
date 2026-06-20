@@ -18,8 +18,8 @@
   --font-size-l: 14.8px;
   --font-size-m: 12.8px;
   --font-size-s: 10.8px;
-  --z-index-base: 10;
-  --z-index-pop-out: 40;
+  --z-index-base: 5;
+  --z-index-pop-out: 10;
   --course-min-height: 96px;
   --time-label-width: 40px;
 }
